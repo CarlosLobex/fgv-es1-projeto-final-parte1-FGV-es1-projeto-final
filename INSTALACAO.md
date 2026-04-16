@@ -21,10 +21,10 @@ Após realizar o fork, clone os seus repositórios localmente:
 
 ```bash
 # Clone o backend
-git clone https://github.com/<seu-usuario>/esmforum.git
+git clone https://github.com/CarlosLobex/esmforum.git
 
 # Clone o frontend
-git clone https://github.com/<seu-usuario>/esmforum-react.git
+git clone https://github.com/CarlosLobex/esmforum-react.git
 ```
 
 ---
